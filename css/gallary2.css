@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+
+.con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+img{
+
+    width: 450px;
+    height: 300px;
+    margin: 0;
+    transition: all 1s;
+    
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+.poster{
+    text-align: center;
+
+}
+
+.w3c{
+    text-align: center;
+}
